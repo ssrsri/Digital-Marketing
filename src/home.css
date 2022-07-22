@@ -1,0 +1,15 @@
+.bgImage{
+    background-image: url(/src/images/dm-7.jpg);
+    height: 750px;
+    max-width: 100%;
+    opacity: 25;
+}
+.digital{
+    float: right;
+    width: max-content;
+}
+.d5
+{
+    width: max-content;
+    
+}
